@@ -1,2 +1,4 @@
 # youtube-organizer
-Organizador para o "Assitir mais tarde" do youtube
+Organizador para o "Assistir mais tarde" do youtube.
+
+Organizar por categorias/assunto ou qualquer outro filtro configurável
